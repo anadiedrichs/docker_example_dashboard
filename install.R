@@ -1,0 +1,1 @@
+install.packages(c('tidyverse', 'flexdashboard', 'knitr', 'plotly', 'shiny'), dependencies = TRUE, repo='http://cran.r-project.org')
